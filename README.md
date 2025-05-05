@@ -1,4 +1,5 @@
 # GroupPlanner 🎉
+
 GroupPlanner is a collaborative event planning app designed for small teams, friends, and families. It helps users suggest ideas, track attendance, and keep everyone on the same page.
 
 ## ✨ Features
