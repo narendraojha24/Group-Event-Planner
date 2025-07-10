@@ -11,6 +11,8 @@ GroupPlanner is a collaborative event planning app designed for small teams, fri
 - 👥 View who created each event
 - 📱 Clean, responsive UI
 
+- live : https://group-event-planner-delta.vercel.app/
+
 ## 📸 Screenshots
 
 ![Screenshot 2025-05-02 204203](https://github.com/user-attachments/assets/6ab16480-ffb2-4453-bb1a-1ecd4e12472d)
